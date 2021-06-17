@@ -1,0 +1,69 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Tải xuống!\\4SV\\code\\Refactored_Py_DS_ML_Bootcamp-master"
+		},
+		{
+			"path": "..\\..\\..\\Tải xuống!\\4SV\\code"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\py"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\py\\basic"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\New folder (2)"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\New folder"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\ver2"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\KHDL\\4SV\\code\\feature-engineering"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\ta"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\React_native\\Demo1"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\React_native\\Demo2"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\craw"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\CR"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\banhang"
+		},
+		{
+			"path": "C:\\Users\\Admin\\Desktop\\TestApp"
+		}
+	],
+	"settings": {
+		"terminal.integrated.shell.windows": "",
+		"python.venvFolders": [
+			"python",
+			"py"
+		],
+		"python.venvPath": "C:\\Users\\Admin\\kinne\\python",
+		"emmet.showSuggestionsAsSnippets": true,
+		"python.envFile": "C:\\Users\\Admin\\kinne",
+		"python.formatting.autopep8Args": [
+			"pyth"
+		],
+		"jupyter.textOutputLimit": 30000
+	}
+}
